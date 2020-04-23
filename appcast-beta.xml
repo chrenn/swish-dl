@@ -1,0 +1,155 @@
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+
+    <channel>
+
+        <title>Swish</title>
+
+        <item>
+        
+            <title>Swish 1.5 Beta</title>
+
+            <description><![CDATA[
+            <h1>★★★★★</h1>
+            <p>If you like Swish, you can help me out a lot by leaving a recommendation on <a href="https://www.producthunt.com/ask/2355-what-s-the-best-window-manager-for-mac#recommendation-45168">Product Hunt</a> or <a href="https://www.slant.co/topics/526/viewpoints/39/~best-window-manager-for-mac~swish">Slant</a>. Thanks! — Chris</p>
+            <br>
+            <h1>Swish 1.5</h1>
+            <ul>
+            <li>3×3 snapping.</li>
+            <li>Modifiers can now be set directly by pressing the desired key(s) in the pop-up menu.</li>
+            <li>Fixed an edge case where the cursor would disappear for some users after moving windows between spaces.</li>
+            <li>Fixed a bug where windows would get unsnapped after being moved by large modals (e.g. a save dialog).</li>
+            <li>Worked around a bug in macOS where tooltips would not show properly with 'Reduce transparency' enabled in accessibility settings.</li>
+            <li>Tooltips are now slightly darker.</li>
+            </ul>
+            <h1>Swish 1.4</h1>
+            <ul>
+            <li>Window gestures now work on full windows in Mission Control.</li>
+            <li>Updated Internet Access Policy.</li>
+            <li>Also, check out Swish's fancy new site at <a href="https://highlyopinionated.co/swish">highlyopinionated.co/swish</a>.</li>
+            </ul>
+            <h1>Swish 1.3</h1>
+            <ul>
+            <li>Swish now provides an <a href="https://obdev.at/iap/index-en.html">Internet Access Policy</a>.</li>
+            <li>Simplified activation flow and removed in-app checkout.</li>
+            <li>Launch at login status is now <a href="https://github.com/chrenn/LoginItemKit">properly reflected</a> in system preferences.</li>
+            <li>Fixed a bug in the active event listener where third party mice would occasionally stop scrolling.</li>
+            <li>Decreased binary size from 29MB to 18MB.</li>
+            </ul>
+            <h1>Swish 1.2.2</h1>
+            <ul>
+            <li>Workaround for a <a href="https://github.com/feedback-assistant/reports/issues/75">bug in Catalina</a> where windows get unsnapped when switching between fullscreen spaces.</li>
+            <li>Smoother unsnapping via dragging.</li>
+            <li>Option to disable drag to unsnap.</li>
+            <li>Redesigned license view.</li>
+            </ul>
+            <h1>Swish 1.2.1</h1>
+            <ul>
+            <li>Faster tab detaching.</li>
+            <li>Small bugfixes.</li>
+            </ul>
+            <h1>Swish 1.2</h1>
+            <h2>Features</h2>
+            <ul>
+            <li>Gestures for tabs in native tab bars: detaching (chaining) and closing.</li>
+            <li>Gestures will now automatically be cancelled after a custom timeout. Just keep holding until the tooltip disappears.</li>
+            <li>Windows will now be automatically unsnapped before closing and terminating, so they won't re-open in a snapped position.</li>
+            <li>Global menubar gestures now correspond to their window counterparts: double tap to unsnap, swipe down to minimize and swipe up to unminimize. No modifier key required.</li>
+            <li>Enabled tap, hold and pinch functionality. Can e.g. be used for quitting an app from a window or entering fullscreen mode on a window after activating from the Dock.</li>
+            <li>Added a toggle for hiding the cursor on tooltips, as this can apparently cause issues with Sidecar.</li>
+            </ul>
+            <h2>Fixes</h2>
+            <ul>
+            <li>Asynchronous gesture pipeline for improved timing on gesture chaining.</li>
+            <li>Improved settings window layout and onboarding. Also, gesture views now resize properly.</li>
+            <li>Menubar gestures now also work on non-focused screens in a multi-monitor setup.</li>
+            <li>The two-screen-setup fullscreen shortcut now also works on already fullscreened windows and can be invoked with double pinch.</li>
+            <li>Moving windows between spaces can now be invoked by a tap, hold & swipe gesture.</li>
+            <li>Improved chaining windows from the menubar menu.</li>
+            <li>Further improved migration to Catalina.</li>
+            <li>Improved license activation flow.</li>
+            <li>Improved cursor hiding on short intervals.</li>
+            <li>Improved app switcher tooltip for single swipes.</li>
+            <li>Reverted to old tooltip for unsnapping via menubar.</li>
+            <li>Unresponsive dock icons do not disrupt Swish anymore.</li>
+            </ul>
+            <h2>Deprecations</h2>
+            <ul>
+            <li>Removed borderless tooltip option, as they tend to look weird.</li>
+            <li>Removed 'Scroll To Top' gesture, as it did not work reliably.</li>
+            </ul>
+            <h1>Swish 1.1</h1>
+            <h2>Features</h2>
+            <ul>
+            <li>Gestures can now also be performed on the whole window area via super modifier key.</li>
+            <li>Extended dock functionality to the menubar menu in non-fullscreen mode.</li>
+            <li>Move windows between spaces.</li>
+            <li>Move all snapped windows between screens via a menubar gesture.</li>
+            <li>New menubar gesture: App Switcher (⌘+Tab).</li>
+            <li>New dock gesture: New Tab (⌘+N).</li>
+            <li>On two monitor setups, windows can be made fullscreen directly on the other monitor by holding the screen modifier.</li>
+            </ul>
+            <h2>Improvements</h2>
+            <ul>
+            <li>New app and menubar icon. Sorry about the motion sickness!</li>
+            <li>Swish can now block event propagation during and scroll momentum after gestures, improving the experience for Catalina apps, where scroll areas often extend to the titlebar.</li>
+            <li>Improved snapping layout calculation with a new default offset option. Now supports odd gird offsets and screen edge exclusion.</li>
+            <li>Changed third-snapping behavior to access one-third directly on a single horizontal swipe (hold and swipe to access two-thirds directly).</li>
+            <li>New tooltips for centering and unsnapping.</li>
+            <li>Exposed the re-snap timeout setting on screen setup changes.</li>
+            <li>Added the ability to deactivate an existing license.</li>
+            <li>Modifier popover responds to key presses.</li>
+            <li>CPU usage is considerably improved.</li>
+            <li>Added onboarding for new users as well as this update.</li>
+            </ul>
+            <h2>Fixes</h2>
+            <ul>
+            <li>Added wider support for non-native toolbars.</li>
+            <li>Consistently block Popover/PiP windows.</li>
+            <li>Consistently close fullscreen windows.</li>
+            <li>Gesture chaining now works on windows unminimized from their dock preview.</li>
+            <li>Minimizing windows does not cause a tooltip delay anymore.</li>
+            <li>(Un)minimizing multiple windows via menubar gesture now works in parallel.</li>
+            </ul>
+            <h2>Reassignments</h2>
+            <ul>
+            <li>Double tapping now unsnaps and centers a window.</li>
+            <li>Tap, hold and swipe up to enter and exit fullscreen mode. Alternatively, use the general modifier.</li>
+            <li>In fullscreen mode, tap and hold before swiping down to minimize. This prevents accidentals.</li>
+            </ul>
+            <h2>Deprecations</h2>
+            <ul>
+            <li>Reset all modifier keys due to the new modifier architecture.</li>
+            <li>Removed the cancel modifier, as this is handled by escape now.</li>
+            <li>Removed the ability on disable tooltips on a category basis, as gestures can now disabled individually. Tooltips can still be disabled globally.</li>
+            <li>Removed 'Available Screens' tooltip option for reasons of simplicity.</li>
+            <li>Removed the two biggest tooltip size options as they were comically large and removed monochrome color option due to weird look.</li>
+            </ul>
+            <h2>Known Issues</h2>
+            <ul>
+            <li>Due to a bug on Apple's side, system-wide pinch and swipe gestures might stop working unexpectedly. Swish can try to re-enable them automatically or manually. In hard cases, setting your machine to sleep briefly fixes that behavior.</li>
+            <li>The contents of the preference window might not properly resize under certain circumstances. (pls send help)</li>
+            </ul>
+            <h1>Swish 1.0.1</h1>
+            <ul>
+            <li>Added support for 'non-natural' (legacy) scrolling.</li>
+            <li>Gestures can now be cancelled by pressing 'Esc'</li>
+            <li>New gesture: Center a window by double tapping with a modifier key.</li>
+            </ul>
+            <h1>Swish 1.0</h1>
+            <ul>
+            <li>Initial release.</li>
+            </ul>
+            ]]></description>
+
+            <pubDate>Thu, 23 Apr 2020 21:53:32 +0200</pubDate>
+            <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/chrenn/swish-dl/releases/download/1.5-beta/Swish.sparkle.zip" sparkle:version="31" sparkle:shortVersionString="1.5-beta" length="6953155" type="application/octet-stream" sparkle:edSignature="S6jvOLk+uXStuEcqpuL4H9pkrF4skYQKM/vmzFAtLub/SFYEbtQVIOh9BpFweavD0GnzT1F2KXwiULF3/DdhDA=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/chrenn/swish-dl/releases/download/1.5-beta/Swish.sparkle.delta" sparkle:version="31" sparkle:shortVersionString="1.5-beta" sparkle:deltaFrom="30" length="776226" type="application/octet-stream" sparkle:edSignature="65FQ7R7OPvyY2z2WcLuieXuuzIU23yXI5ZJ79JUz8mWxAHKswxevdKV6oVz3nNVHkzre/Pm10IT2ZE1LHbJxDw=="/>
+            </sparkle:deltas>
+
+        </item>
+
+    </channel>
+    
+</rss>
