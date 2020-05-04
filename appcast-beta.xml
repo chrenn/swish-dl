@@ -6,10 +6,10 @@
 
         <item>
         
-            <title>Swish 1.5 Beta</title>
+            <title>Swish 1.5</title>
 
             <description><![CDATA[
-            <h3>🌟 If you like Swish, you can help me out a lot by leaving a recommendation on <a href="https://www.producthunt.com/ask/2355-what-s-the-best-window-manager-for-mac#recommendation-45168">Product Hunt</a> or <a href="https://www.slant.co/topics/526/viewpoints/39/~best-window-manager-for-mac~swish">Slant</a>. Thanks! — Chris</h3>
+            <h3>🌟 If you like Swish, you can help me out a lot by leaving a recommendation on <a href="https://www.producthunt.com/ask/2355-what-s-the-best-window-manager-for-mac#recommendation-45168">Product Hunt</a>, <a href="https://alternativeto.net/software/swish-app/">AlternativeTo</a> or <a href="https://www.slant.co/topics/526/viewpoints/39/~best-window-manager-for-mac~swish">Slant</a>. Thanks! — Chris</h3>
             <h1>Swish 1.5</h1>
             <ul>
             <li>3×3 snapping.</li>
@@ -18,6 +18,7 @@
             <li>Fixed a bug where windows would get unsnapped after being moved by large modals (e.g. a save dialog).</li>
             <li>Worked around a bug in macOS where tooltips would not show properly with 'Reduce transparency' enabled in accessibility settings.</li>
             <li>Tooltips are now slightly darker.</li>
+            <li>Updated menubar icons.</li>
             </ul>
             <h1>Swish 1.4</h1>
             <ul>
@@ -139,11 +140,11 @@
             </ul>
             ]]></description>
 
-            <pubDate>Thu, 23 Apr 2020 21:53:32 +0200</pubDate>
+            <pubDate>Mon, 04 May 2020 19:22:54 +0200</pubDate>
             <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/chrenn/swish-dl/releases/download/1.5-beta/Swish.sparkle.zip" sparkle:version="31" sparkle:shortVersionString="1.5-beta" length="6953155" type="application/octet-stream" sparkle:edSignature="S6jvOLk+uXStuEcqpuL4H9pkrF4skYQKM/vmzFAtLub/SFYEbtQVIOh9BpFweavD0GnzT1F2KXwiULF3/DdhDA=="/>
+            <enclosure url="https://github.com/chrenn/swish-dl/releases/download/1.5/Swish.sparkle.zip" sparkle:version="33" sparkle:shortVersionString="1.5" length="6928666" type="application/octet-stream" sparkle:edSignature="JS7md20KjpC75d6bn1CSVsLl7RYEt22f89410poCmB0C28BiL+uqyumvzz8YIudctDJkjeX6JpxARKVimSZ8BA=="/>
             <sparkle:deltas>
-                <enclosure url="https://github.com/chrenn/swish-dl/releases/download/1.5-beta/Swish.sparkle.delta" sparkle:version="31" sparkle:shortVersionString="1.5-beta" sparkle:deltaFrom="30" length="776226" type="application/octet-stream" sparkle:edSignature="65FQ7R7OPvyY2z2WcLuieXuuzIU23yXI5ZJ79JUz8mWxAHKswxevdKV6oVz3nNVHkzre/Pm10IT2ZE1LHbJxDw=="/>
+                <enclosure url="https://github.com/chrenn/swish-dl/releases/download/1.5/Swish.sparkle.delta" sparkle:version="33" sparkle:shortVersionString="1.5" sparkle:deltaFrom="30" length="799620" type="application/octet-stream" sparkle:edSignature="WPXgz4cgBGPuloDNJEjQOYFXWd/xZ3NZb23oW2qpCpD3/GnB0LmXySCfKQeJSdov/P+MFbofCf1bAV3TmztCBw=="/>
             </sparkle:deltas>
 
         </item>
