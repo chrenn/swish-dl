@@ -6,10 +6,18 @@
 
         <item>
         
-            <title>Swish 1.5</title>
+            <title>Swish 1.6</title>
 
             <description><![CDATA[
             <h3>🌟 If you like Swish, you can help me out a lot by leaving a recommendation on <a href="https://www.producthunt.com/ask/2355-what-s-the-best-window-manager-for-mac#recommendation-45168">Product Hunt</a>, <a href="https://alternativeto.net/software/swish-app/">AlternativeTo</a> or <a href="https://www.slant.co/topics/526/viewpoints/39/~best-window-manager-for-mac~swish">Slant</a>. Thanks! — Chris</h3>
+
+            <h1>Swish 1.6</h1>
+            <ul>
+            <li>Check out Swish on <a href="https://go.setapp.com/stp287?refAppID=403&stc=swish-appcast">Setapp</a>!</li>
+            <li>Resize Adjacent Windows: Quickly resize multiple snapped windows at once by dragging the divider between them.</li>
+            <li>Fixed a bug where gestures would trigger on popovers.</li>
+            <li>Added the option to turn off re-snapping after (dis-)connecting external displays.</li>
+
             <h1>Swish 1.5</h1>
             <ul>
             <li>3×3 snapping.</li>
@@ -20,12 +28,14 @@
             <li>Tooltips are now slightly darker.</li>
             <li>Updated menubar icons.</li>
             </ul>
+
             <h1>Swish 1.4</h1>
             <ul>
             <li>Window gestures now work on full windows in Mission Control.</li>
             <li>Updated Internet Access Policy.</li>
             <li>Also, check out Swish's fancy new site at <a href="https://highlyopinionated.co/swish">highlyopinionated.co/swish</a>.</li>
             </ul>
+
             <h1>Swish 1.3</h1>
             <ul>
             <li>Swish now provides an <a href="https://obdev.at/iap/index-en.html">Internet Access Policy</a>.</li>
@@ -34,6 +44,7 @@
             <li>Fixed a bug in the active event listener where third party mice would occasionally stop scrolling.</li>
             <li>Decreased binary size from 29MB to 18MB.</li>
             </ul>
+
             <h1>Swish 1.2.2</h1>
             <ul>
             <li>Workaround for a <a href="https://github.com/feedback-assistant/reports/issues/75">bug in Catalina</a> where windows get unsnapped when switching between fullscreen spaces.</li>
@@ -41,11 +52,13 @@
             <li>Option to disable drag to unsnap.</li>
             <li>Redesigned license view.</li>
             </ul>
+
             <h1>Swish 1.2.1</h1>
             <ul>
             <li>Faster tab detaching.</li>
             <li>Small bugfixes.</li>
             </ul>
+
             <h1>Swish 1.2</h1>
             <h2>Features</h2>
             <ul>
@@ -76,6 +89,7 @@
             <li>Removed borderless tooltip option, as they tend to look weird.</li>
             <li>Removed 'Scroll To Top' gesture, as it did not work reliably.</li>
             </ul>
+
             <h1>Swish 1.1</h1>
             <h2>Features</h2>
             <ul>
@@ -128,23 +142,25 @@
             <li>Due to a bug on Apple's side, system-wide pinch and swipe gestures might stop working unexpectedly. Swish can try to re-enable them automatically or manually. In hard cases, setting your machine to sleep briefly fixes that behavior.</li>
             <li>The contents of the preference window might not properly resize under certain circumstances. (pls send help)</li>
             </ul>
+
             <h1>Swish 1.0.1</h1>
             <ul>
             <li>Added support for 'non-natural' (legacy) scrolling.</li>
             <li>Gestures can now be cancelled by pressing 'Esc'</li>
             <li>New gesture: Center a window by double tapping with a modifier key.</li>
             </ul>
+
             <h1>Swish 1.0</h1>
             <ul>
             <li>Initial release.</li>
             </ul>
             ]]></description>
-
-            <pubDate>Mon, 04 May 2020 19:22:54 +0200</pubDate>
+            
+            <pubDate>Thu, 16 Jul 2020 15:58:16 +0200</pubDate>
             <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/chrenn/swish-dl/releases/download/1.5/Swish.sparkle.zip" sparkle:version="33" sparkle:shortVersionString="1.5" length="6928666" type="application/octet-stream" sparkle:edSignature="JS7md20KjpC75d6bn1CSVsLl7RYEt22f89410poCmB0C28BiL+uqyumvzz8YIudctDJkjeX6JpxARKVimSZ8BA=="/>
+            <enclosure url="https://github.com/chrenn/swish-dl/releases/download/1.6/Swish.sparkle.zip" sparkle:version="35" sparkle:shortVersionString="1.6" length="7017402" type="application/octet-stream" sparkle:edSignature="VaiuUIfOzzhsbaEmC9ERDg6EpA8U98zLw8BP8d7deJBDgnl7x3OOwSJcu6zFDW2tkesZ9FnIkNgnra7U12tnCQ=="/>
             <sparkle:deltas>
-                <enclosure url="https://github.com/chrenn/swish-dl/releases/download/1.5/Swish.sparkle.delta" sparkle:version="33" sparkle:shortVersionString="1.5" sparkle:deltaFrom="30" length="799620" type="application/octet-stream" sparkle:edSignature="WPXgz4cgBGPuloDNJEjQOYFXWd/xZ3NZb23oW2qpCpD3/GnB0LmXySCfKQeJSdov/P+MFbofCf1bAV3TmztCBw=="/>
+                <enclosure url="https://github.com/chrenn/swish-dl/releases/download/1.6/Swish.sparkle.delta" sparkle:version="35" sparkle:shortVersionString="1.6" sparkle:deltaFrom="33" length="423106" type="application/octet-stream" sparkle:edSignature="CaR6CCZSYljJn8sXAsiIqWy9a8z71GrATGehn0z8H5SFJwcSNDHDbv1DoR2F8g632sYPKNTGEaRmW2UjK/ElAg=="/>
             </sparkle:deltas>
 
         </item>
