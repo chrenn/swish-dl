@@ -17,6 +17,7 @@
             <li>Resize Adjacent Windows: Quickly resize multiple snapped windows at once by dragging the divider between them.</li>
             <li>Fixed a bug where gestures would trigger on popovers.</li>
             <li>Added the option to turn off re-snapping after (dis-)connecting external displays.</li>
+            <ul>
 
             <h1>Swish 1.5</h1>
             <ul>
