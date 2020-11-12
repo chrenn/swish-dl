@@ -6,7 +6,7 @@
 
         <item>
         
-            <title>Swish 1.7 Beta 2</title>
+            <title>Swish 1.7</title>
 
             <description><![CDATA[
             <b>🌟 Like Swish? Write a review on <a href="https://www.producthunt.com/ask/2355-what-s-the-best-window-manager-for-mac#recommendation-45168">Product Hunt</a>, <a href="https://alternativeto.net/software/swish-app/">AlternativeTo</a> or <a href="https://www.slant.co/topics/526/viewpoints/39/~best-window-manager-for-mac~swish">Slant</a>.</b>
@@ -16,13 +16,17 @@
             <li>Arrow Hotkeys: Invoke snapping, spaces & screen gestures via super modifier and arrow (or WASD) keys. Press backspace (or X) to center & unsnap.</li>
             <li>Updated preferences window design for Big Sur.</li>
             <li>Support for tabs without close button in Safari 14.</li>
+            <li>Hover over gesture descriptions for additional detailed information.</li>
             <li>New light tooltips for light mode. Mainly due to a <a href="https://github.com/feedback-assistant/reports/issues/123">Bug</a>, but they actually look pretty neat!</li>
             <li>New tooltip for switching between spaces.</li>
+            <li>Some advanced gestures have been disabled on first launch for new users.</li>
             <li>Added 'Hide' as a window gesture in addition to the app gesture.</li>
+            <li>The 'Tab Close' gesture can now also be invoked by swiping down while holding the general modifier.</li>
+            <li>The 'App Switcher' gesture has been simplified.</li>
             <li>Window gestures now also work in App Exposé in addition to Mission Control.</li>
             <li>Window gestures can be directly invoked on app icons via super modifier.</li>
             <li>Use the secondary modifier to temporarily disable 'Drag to Unsnap'.</li>
-            <li>Added detailed software update controls including opting-in to beta updates.</li>
+            <li>Added detailed software update controls including opting-in to beta updates via UI.</li>
             <li>Added a 'Show Tutorial' option.</li>
             </ul>
 
@@ -172,11 +176,11 @@
             </ul>
             ]]></description>
 
-            <pubDate>Tue, 25 Aug 2020 12:43:54 +0200</pubDate>
+            <pubDate>Thu, 12 Nov 2020 12:23:16 +0100</pubDate>
             <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/chrenn/swish-dl/releases/download/1.7-beta2/Swish.sparkle.zip" sparkle:version="41" sparkle:shortVersionString="1.7-beta2" length="8243358" type="application/octet-stream" sparkle:edSignature="lwTlW2tKnX8O1XSbih3eVnTF3wxVIuHMxpxDOr9o8SAlv12V1armk76UgSKTyDULgbjeUVtHiFm4OUzaCt3tDg=="/>
+            <enclosure url="https://github.com/chrenn/swish-dl/releases/download/1.7/Swish.sparkle.zip" sparkle:version="42" sparkle:shortVersionString="1.7" length="7685809" type="application/octet-stream" sparkle:edSignature="aSDFQlQqIRjdgFm0rH1065XkT2K6ONGSosuKCWnebi0DESURqbMqZHdhm5ddTjWnGBKyhlpnsY9t1wPFXuHpCQ=="/>
             <sparkle:deltas>
-                <enclosure url="https://github.com/chrenn/swish-dl/releases/download/1.7-beta2/Swish.sparkle.delta" sparkle:version="41" sparkle:shortVersionString="1.7-beta2" sparkle:deltaFrom="40" length="452277" type="application/octet-stream" sparkle:edSignature="/eQ+LDTWr1gS1vQ57jFp1fzOI7IufGTxFq8mGEI0J1Q35QtBq2q56Jobae2DEpGBQkgBOZJo/j2AtrxFe8mNDQ=="/>
+                <enclosure url="https://github.com/chrenn/swish-dl/releases/download/1.7/Swish.sparkle.delta" sparkle:version="42" sparkle:shortVersionString="1.7" sparkle:deltaFrom="35" length="2768979" type="application/octet-stream" sparkle:edSignature="g51nZO9wLigVMgEYw/zRE2d8e6WD/ewUVw9jsW8fqsXMh3OANesZ0aI5qJhW4/9ljG0+3SCYpKzXpBsyDhVqDA=="/>
             </sparkle:deltas>
 
         </item>
