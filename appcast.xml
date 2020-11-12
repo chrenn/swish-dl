@@ -6,10 +6,29 @@
 
         <item>
         
-            <title>Swish 1.6</title>
+            <title>Swish 1.7</title>
 
             <description><![CDATA[
-            <h3>🌟 If you like Swish, you can help me out a lot by leaving a recommendation on <a href="https://www.producthunt.com/ask/2355-what-s-the-best-window-manager-for-mac#recommendation-45168">Product Hunt</a>, <a href="https://alternativeto.net/software/swish-app/">AlternativeTo</a> or <a href="https://www.slant.co/topics/526/viewpoints/39/~best-window-manager-for-mac~swish">Slant</a>. Thanks! — Chris</h3>
+            <b>🌟 Like Swish? Write a review on <a href="https://www.producthunt.com/ask/2355-what-s-the-best-window-manager-for-mac#recommendation-45168">Product Hunt</a>, <a href="https://alternativeto.net/software/swish-app/">AlternativeTo</a> or <a href="https://www.slant.co/topics/526/viewpoints/39/~best-window-manager-for-mac~swish">Slant</a>.</b>
+
+            <h1>Swish 1.7</h1>
+            <ul>
+            <li>Arrow Hotkeys: Invoke snapping, spaces & screen gestures via super modifier and arrow (or WASD) keys. Press backspace (or X) to center & unsnap.</li>
+            <li>Updated preferences window design for Big Sur.</li>
+            <li>Support for tabs without close button in Safari 14.</li>
+            <li>Hover over gesture descriptions for additional detailed information.</li>
+            <li>New light tooltips for light mode. Mainly due to a <a href="https://github.com/feedback-assistant/reports/issues/123">Bug</a>, but they actually look pretty neat!</li>
+            <li>New tooltip for switching between spaces.</li>
+            <li>Some advanced gestures have been disabled on first launch for new users.</li>
+            <li>Added 'Hide' as a window gesture in addition to the app gesture.</li>
+            <li>The 'Tab Close' gesture can now also be invoked by swiping down while holding the general modifier.</li>
+            <li>The 'App Switcher' gesture has been simplified.</li>
+            <li>Window gestures now also work in App Exposé in addition to Mission Control.</li>
+            <li>Window gestures can be directly invoked on app icons via super modifier.</li>
+            <li>Use the secondary modifier to temporarily disable 'Drag to Unsnap'.</li>
+            <li>Added detailed software update controls including opting-in to beta updates via UI.</li>
+            <li>Added a 'Show Tutorial' option.</li>
+            </ul>
 
             <h1>Swish 1.6</h1>
             <ul>
@@ -156,12 +175,12 @@
             <li>Initial release.</li>
             </ul>
             ]]></description>
-            
-            <pubDate>Thu, 16 Jul 2020 15:58:16 +0200</pubDate>
+
+            <pubDate>Thu, 12 Nov 2020 12:23:16 +0100</pubDate>
             <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/chrenn/swish-dl/releases/download/1.6/Swish.sparkle.zip" sparkle:version="35" sparkle:shortVersionString="1.6" length="7017402" type="application/octet-stream" sparkle:edSignature="VaiuUIfOzzhsbaEmC9ERDg6EpA8U98zLw8BP8d7deJBDgnl7x3OOwSJcu6zFDW2tkesZ9FnIkNgnra7U12tnCQ=="/>
+            <enclosure url="https://github.com/chrenn/swish-dl/releases/download/1.7/Swish.sparkle.zip" sparkle:version="42" sparkle:shortVersionString="1.7" length="7685809" type="application/octet-stream" sparkle:edSignature="aSDFQlQqIRjdgFm0rH1065XkT2K6ONGSosuKCWnebi0DESURqbMqZHdhm5ddTjWnGBKyhlpnsY9t1wPFXuHpCQ=="/>
             <sparkle:deltas>
-                <enclosure url="https://github.com/chrenn/swish-dl/releases/download/1.6/Swish.sparkle.delta" sparkle:version="35" sparkle:shortVersionString="1.6" sparkle:deltaFrom="33" length="423106" type="application/octet-stream" sparkle:edSignature="CaR6CCZSYljJn8sXAsiIqWy9a8z71GrATGehn0z8H5SFJwcSNDHDbv1DoR2F8g632sYPKNTGEaRmW2UjK/ElAg=="/>
+                <enclosure url="https://github.com/chrenn/swish-dl/releases/download/1.7/Swish.sparkle.delta" sparkle:version="42" sparkle:shortVersionString="1.7" sparkle:deltaFrom="35" length="2768979" type="application/octet-stream" sparkle:edSignature="g51nZO9wLigVMgEYw/zRE2d8e6WD/ewUVw9jsW8fqsXMh3OANesZ0aI5qJhW4/9ljG0+3SCYpKzXpBsyDhVqDA=="/>
             </sparkle:deltas>
 
         </item>
