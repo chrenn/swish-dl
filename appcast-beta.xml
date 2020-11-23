@@ -6,7 +6,7 @@
 
         <item>
         
-            <title>Swish 1.7.1 Beta</title>
+            <title>Swish 1.7.1</title>
 
             <description><![CDATA[
             <b>🌟 Like Swish? Write a review on <a href="https://www.producthunt.com/ask/2355-what-s-the-best-window-manager-for-mac#recommendation-45168">Product Hunt</a>, <a href="https://alternativeto.net/software/swish-app/">AlternativeTo</a> or <a href="https://www.slant.co/topics/526/viewpoints/39/~best-window-manager-for-mac~swish">Slant</a>.</b>
@@ -183,11 +183,11 @@
             </ul>
             ]]></description>
 
-            <pubDate>Sat, 21 Nov 2020 18:24:37 +0100</pubDate>
+            <pubDate>Mon, 23 Nov 2020 11:39:29 +0100</pubDate>
             <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/chrenn/swish-dl/releases/download/1.7.1-beta/Swish.sparkle.zip" sparkle:version="43" sparkle:shortVersionString="1.7.1-beta" length="8440028" type="application/octet-stream" sparkle:edSignature="+yqlTQRzvFDWjo8j9Vyu4o/lnTMoUVpxgDdRgKciEc7/2NLnC2jN7OQuYA9tsxhRhtESgqj2khW4KXISStbtBg=="/>
+            <enclosure url="https://github.com/chrenn/swish-dl/releases/download/1.7.1/Swish.sparkle.zip" sparkle:version="44" sparkle:shortVersionString="1.7.1" length="8439977" type="application/octet-stream" sparkle:edSignature="Ok7bJKHiNfFO/abW52IWZI2OzWJ0888VPLbazq4NVd1H4Xu3rXfEQecV3GOwMQDAOS5eoWfIvzfLSt46AlJXCA=="/>
             <sparkle:deltas>
-                <enclosure url="https://github.com/chrenn/swish-dl/releases/download/1.7.1-beta/Swish.sparkle.delta" sparkle:version="43" sparkle:shortVersionString="1.7.1-beta" sparkle:deltaFrom="42" length="992857" type="application/octet-stream" sparkle:edSignature="PQs3qKUnKXiJm4v9hfWIucMwFQm0igzfUZA4H60qHiobEaZoINztq7EOVPT2wVoHFhgLgvvWrg1I2bdbOJA6Ag=="/>
+                <enclosure url="https://github.com/chrenn/swish-dl/releases/download/1.7.1/Swish.sparkle.delta" sparkle:version="44" sparkle:shortVersionString="1.7.1" sparkle:deltaFrom="42" length="989586" type="application/octet-stream" sparkle:edSignature="oobCUVK572TyR+JEskRs5+GxeQaovfJUtawYnS8PKZEqZUFnCxvOTepe0+yWIwhpJqbPzt4LlqJlcE5TfOxfAQ=="/>
             </sparkle:deltas>
 
         </item>
