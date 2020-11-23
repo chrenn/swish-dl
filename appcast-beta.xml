@@ -24,7 +24,7 @@
             <li>Updated preferences window design for Big Sur.</li>
             <li>Support for tabs without close button in Safari 14.</li>
             <li>Hover over gesture descriptions for additional detailed information.</li>
-            <li>New light tooltips for light mode. Mainly due to a <a href="https://github.com/feedback-assistant/reports/issues/123">Bug</a>, but they actually look pretty neat!</li>
+            <li>New light tooltips for light mode. Mainly due to a <a href="https://github.com/feedback-assistant/reports/issues/123">bug</a>, but they actually look pretty neat!</li>
             <li>New tooltip for switching between spaces.</li>
             <li>Some advanced gestures have been disabled on first launch for new users.</li>
             <li>Added 'Hide' as a window gesture in addition to the app gesture.</li>
