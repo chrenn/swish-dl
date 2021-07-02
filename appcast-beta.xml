@@ -6,12 +6,12 @@
 
         <item>
         
-            <title>Swish 1.8 Beta</title>
+            <title>Swish 1.8</title>
 
             <description><![CDATA[
             <b>🌟 Like Swish? Write a review on <a href="https://www.producthunt.com/posts/swish-7/reviews">Product Hunt</a>, <a href="https://alternativeto.net/software/swish-app/">AlternativeTo</a> or <a href="https://www.slant.co/topics/526/viewpoints/39/~best-window-manager-for-mac~swish">Slant</a>.</b>
 
-            <h2>Swish 1.8 Beta</h2>
+            <h2>Swish 1.8</h2>
             <h3>Features</h3>
             <ul>
             <li>Live tooltips provide a full-size animated and translucent preview in addition to standard snapping tooltips.</li>
@@ -40,7 +40,7 @@
             </ul>
             <h3>Meta</h3>
             <ul>
-            <li>One Swish license now counts for all users on a machine.</li>
+            <li>One Swish license now counts for all users on a machine. This works for new installations or after restoring all settings (you might have to re-enter your license code).</li>
             </ul>
 
             <h2>Swish 1.7.1</h2>
@@ -215,11 +215,11 @@
             </ul>
             ]]></description>
 
-            <pubDate>Sun, 20 Jun 2021 19:46:41 +0200</pubDate>
+            <pubDate>Fri, 02 Jul 2021 17:56:19 +0200</pubDate>
             <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/chrenn/swish-dl/releases/download/1.8-beta/Swish.sparkle.zip" sparkle:version="46" sparkle:shortVersionString="1.8-beta1" length="7626890" type="application/octet-stream" sparkle:edSignature="2DMGJ8O3n2wtV62rpOHZIAA2/P/nCRrjyuMZYT1ffpqwpbgZN41gavk+Y8qKLYkmEgg+XJHrm2IMlth8HqlXCQ=="/>
+            <enclosure url="https://github.com/chrenn/swish-dl/releases/download/1.8/Swish.sparkle.zip" sparkle:version="48" sparkle:shortVersionString="1.8" length="7640064" type="application/octet-stream" sparkle:edSignature="PiOAuL2UBj6atByG8jgI0OKfA7F5LX2PMIyWTCMXOHsjk180DkS/ETAK4LJ+7b4gEn5msgCn4vncG7/BTY1CCQ=="/>
             <sparkle:deltas>
-                <enclosure url="https://github.com/chrenn/swish-dl/releases/download/1.8-beta/Swish.sparkle.delta" sparkle:version="46" sparkle:shortVersionString="1.8-beta1" sparkle:deltaFrom="44" length="1531958" type="application/octet-stream" sparkle:edSignature="Mnmpychpf8jfAxAewJncok6IGGPF52bo8sL2bs2WjSMF9C1F4Pe3afe2rgz4skVZ6Y92LrovX8zSGcQDC0TdAQ=="/>
+                <enclosure url="https://github.com/chrenn/swish-dl/releases/download/1.8/Swish.sparkle.delta" sparkle:version="48" sparkle:shortVersionString="1.8" sparkle:deltaFrom="44" length="1552044" type="application/octet-stream" sparkle:edSignature="kAktBlXrXHbDtWc0NVaP6F3VXNI+6D9zltchoz63cL6DxYZKJhSMbYA0wg7YcVq97da8s6cOz3Ic1TFzeYEMBg=="/>
             </sparkle:deltas>
 
         </item>
