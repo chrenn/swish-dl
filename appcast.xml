@@ -6,10 +6,42 @@
 
         <item>
         
-            <title>Swish 1.7.1</title>
+            <title>Swish 1.8</title>
 
             <description><![CDATA[
-            <b>🌟 Like Swish? Write a review on <a href="https://www.producthunt.com/ask/2355-what-s-the-best-window-manager-for-mac#recommendation-45168">Product Hunt</a>, <a href="https://alternativeto.net/software/swish-app/">AlternativeTo</a> or <a href="https://www.slant.co/topics/526/viewpoints/39/~best-window-manager-for-mac~swish">Slant</a>.</b>
+            <b>🌟 Like Swish? Write a review on <a href="https://www.producthunt.com/posts/swish-7/reviews">Product Hunt</a>, <a href="https://alternativeto.net/software/swish-app/">AlternativeTo</a> or <a href="https://www.slant.co/topics/526/viewpoints/39/~best-window-manager-for-mac~swish">Slant</a>.</b>
+
+            <h2>Swish 1.8</h2>
+            <h3>Features</h3>
+            <ul>
+            <li>Live tooltips provide a full-size animated and translucent preview in addition to standard snapping tooltips.</li>
+            <li>Quick diagnostics check for common errors with system settings.</li>
+            <li>Added 'Almost Maximize' as a snapping option.</li>
+            <li>Closing tabs now also works in Chrome, Edge & Xcode.</li>
+            <li>Added commonly requested switches for various settings, e.g. Mission Control, App Menu, Tap & Hold.</li>
+            <li>Added the option to restore all settings and modifier keys.</li>
+            </ul>
+            <h3>Improvements</h3>
+            <ul>
+            <li>Snapping thirds and sixths now auto-adjusts to vertical screen orientations.</li>
+            <li>Arrow and Center hotkeys can now be set independently.</li>
+            <li>The Center gesture can now be set independently to Center and/or Unsnap.</li>
+            <li>Added the option to require the super modifier for all gestures.</li>
+            <li>Gestures now work on blacklisted app if the super modifier is used.</li>
+            </ul>
+            <h3>Fixes</h3>
+            <ul>
+            <li>Workaround for a bug on Apple's side where windows would animate and resize instead of snapping to the proper position.</li>
+            <li>Workaround for some kind of weird bug where scrolling on Catalyst apps would break with an active event tap.</li>
+            <li>Fixed a crash when enabling 'Launch at Login' on Apple Silicon Macs.</li>
+            <li>Fixed a bug where tooltips would not show when 'Hide' was enabled for Swish in System Preferences › Users › Login Items.</li>
+            <li>The spaces gesture now also works if non-standard shortcuts are set in System Preferences › Keyboard › Shortcuts › Mission Control.</li>
+            <li>Fixed a bug where chaining gestures would not work for arrow hotkeys.</li>
+            </ul>
+            <h3>Meta</h3>
+            <ul>
+            <li>One Swish license now counts for all users on a machine. This works for new installations or after restoring all settings (you might have to re-enter your license code).</li>
+            </ul>
 
             <h2>Swish 1.7.1</h2>
             <ul>
@@ -183,11 +215,11 @@
             </ul>
             ]]></description>
 
-            <pubDate>Mon, 23 Nov 2020 11:39:29 +0100</pubDate>
+            <pubDate>Fri, 02 Jul 2021 17:56:19 +0200</pubDate>
             <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/chrenn/swish-dl/releases/download/1.7.1/Swish.sparkle.zip" sparkle:version="44" sparkle:shortVersionString="1.7.1" length="8439977" type="application/octet-stream" sparkle:edSignature="Ok7bJKHiNfFO/abW52IWZI2OzWJ0888VPLbazq4NVd1H4Xu3rXfEQecV3GOwMQDAOS5eoWfIvzfLSt46AlJXCA=="/>
+            <enclosure url="https://github.com/chrenn/swish-dl/releases/download/1.8/Swish.sparkle.zip" sparkle:version="48" sparkle:shortVersionString="1.8" length="7640064" type="application/octet-stream" sparkle:edSignature="PiOAuL2UBj6atByG8jgI0OKfA7F5LX2PMIyWTCMXOHsjk180DkS/ETAK4LJ+7b4gEn5msgCn4vncG7/BTY1CCQ=="/>
             <sparkle:deltas>
-                <enclosure url="https://github.com/chrenn/swish-dl/releases/download/1.7.1/Swish.sparkle.delta" sparkle:version="44" sparkle:shortVersionString="1.7.1" sparkle:deltaFrom="42" length="989586" type="application/octet-stream" sparkle:edSignature="oobCUVK572TyR+JEskRs5+GxeQaovfJUtawYnS8PKZEqZUFnCxvOTepe0+yWIwhpJqbPzt4LlqJlcE5TfOxfAQ=="/>
+                <enclosure url="https://github.com/chrenn/swish-dl/releases/download/1.8/Swish.sparkle.delta" sparkle:version="48" sparkle:shortVersionString="1.8" sparkle:deltaFrom="44" length="1552044" type="application/octet-stream" sparkle:edSignature="kAktBlXrXHbDtWc0NVaP6F3VXNI+6D9zltchoz63cL6DxYZKJhSMbYA0wg7YcVq97da8s6cOz3Ic1TFzeYEMBg=="/>
             </sparkle:deltas>
 
         </item>
