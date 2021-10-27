@@ -9,11 +9,13 @@
             <title>Swish 1.8.1</title>
 
             <description><![CDATA[
-            <b>🌟 Like Swish? Write a review on <a href="https://www.producthunt.com/posts/swish-7/reviews">Product Hunt</a>, <a href="https://alternativeto.net/software/swish-app/">AlternativeTo</a> or <a href="https://www.slant.co/topics/526/viewpoints/39/~best-window-manager-for-mac~swish">Slant</a>.</b>
+            <style> html { font-size: 13px } </style>
 
-            <b>🚨 <a href="https://github.com/feedback-assistant/reports/issues/235">Tap & Hold is broken in Monterey and it's up to Apple to fix it.</a></b>
+            <p><b>🌟 Like Swish? Write a review on <a href="https://www.producthunt.com/posts/swish-7/reviews">Product Hunt</a>, <a href="https://alternativeto.net/software/swish-app/">AlternativeTo</a> or <a href="https://www.slant.co/topics/526/viewpoints/39/~best-window-manager-for-mac~swish">Slant</a>.</b></p>
 
-            <h2>Swish 1.8.1</h2>
+            <p><b>🚨 Tap & Hold is broken in Monterey and it's up to Apple to <a href="https://github.com/feedback-assistant/reports/issues/235">fix</a> it.</b></p>
+
+            <h3>Swish 1.8.1</h3>
             <ul>
             <li>General compatibility with macOS 12 and Safari 15.</li>
             <li>Added a Safari checkbox to tab gestures so they can be ignored in compact mode if needed.</li>
@@ -23,8 +25,8 @@
             <li>Fixed a bug where the grid offset would not be applied immediately.</li>
             </ul>
 
-            <h2>Swish 1.8</h2>
-            <h3>Features</h3>
+            <h3>Swish 1.8</h3>
+            <h4>Features</h4>
             <ul>
             <li>Live tooltips provide a full-size animated and translucent preview in addition to standard snapping tooltips.</li>
             <li>Quick diagnostics check for common errors with system settings.</li>
@@ -33,7 +35,7 @@
             <li>Added commonly requested switches for various settings, e.g. Mission Control, App Menu, Tap & Hold.</li>
             <li>Added the option to restore all settings and modifier keys.</li>
             </ul>
-            <h3>Improvements</h3>
+            <h4>Improvements</h4>
             <ul>
             <li>Snapping thirds and sixths now auto-adjusts to vertical screen orientations.</li>
             <li>Arrow and Center hotkeys can now be set independently.</li>
@@ -41,7 +43,7 @@
             <li>Added the option to require the super modifier for all gestures.</li>
             <li>Gestures now work on blacklisted app if the super modifier is used.</li>
             </ul>
-            <h3>Fixes</h3>
+            <h4>Fixes</h4>
             <ul>
             <li>Workaround for a bug on Apple's side where windows would animate and resize instead of snapping to the proper position.</li>
             <li>Workaround for some kind of weird bug where scrolling on Catalyst apps would break with an active event tap.</li>
@@ -50,19 +52,19 @@
             <li>The spaces gesture now also works if non-standard shortcuts are set in System Preferences › Keyboard › Shortcuts › Mission Control.</li>
             <li>Fixed a bug where chaining gestures would not work for arrow hotkeys.</li>
             </ul>
-            <h3>Meta</h3>
+            <h4>Meta</h4>
             <ul>
             <li>One Swish license now counts for all users on a machine. This works for new installations or after restoring all settings (you might have to re-enter your license code).</li>
             </ul>
 
-            <h2>Swish 1.7.1</h2>
+            <h3>Swish 1.7.1</h3>
             <ul>
             <li>Apple Silicon support.</li>
             <li>Added Dvorak layout (,AOE + Q) to arrow hotkeys.</li>
             <li>Fixed a bug where arrow hotkeys would not work on some applications.</li>
             </ul>
 
-            <h2>Swish 1.7</h2>
+            <h3>Swish 1.7</h3>
             <ul>
             <li>Arrow Hotkeys: Invoke snapping, spaces & screen gestures via super modifier and arrow (or WASD) keys. Press backspace (or X) to center & unsnap.</li>
             <li>Updated preferences window design for Big Sur.</li>
@@ -81,7 +83,7 @@
             <li>Added a 'Show Tutorial' option.</li>
             </ul>
 
-            <h2>Swish 1.6</h2>
+            <h3>Swish 1.6</h3>
             <ul>
             <li>Check out Swish on <a href="https://go.setapp.com/stp287?refAppID=403&stc=swish-appcast">Setapp</a>!</li>
             <li>Resize Adjacent Windows: Quickly resize multiple snapped windows at once by dragging the divider between them.</li>
@@ -89,7 +91,7 @@
             <li>Added the option to turn off re-snapping after (dis-)connecting external displays.</li>
             </ul>
 
-            <h2>Swish 1.5</h2>
+            <h3>Swish 1.5</h3>
             <ul>
             <li>3×3 snapping.</li>
             <li>Modifiers can now be set directly by pressing the desired key(s) in the pop-up menu.</li>
@@ -100,14 +102,14 @@
             <li>Updated menubar icons.</li>
             </ul>
 
-            <h2>Swish 1.4</h2>
+            <h3>Swish 1.4</h3>
             <ul>
             <li>Window gestures now work on full windows in Mission Control.</li>
             <li>Updated Internet Access Policy.</li>
             <li>Also, check out Swish's fancy new site at <a href="https://highlyopinionated.co/swish">highlyopinionated.co/swish</a>.</li>
             </ul>
 
-            <h2>Swish 1.3</h2>
+            <h3>Swish 1.3</h3>
             <ul>
             <li>Swish now provides an <a href="https://obdev.at/iap/index-en.html">Internet Access Policy</a>.</li>
             <li>Simplified activation flow and removed in-app checkout.</li>
@@ -116,7 +118,7 @@
             <li>Decreased binary size from 29MB to 18MB.</li>
             </ul>
 
-            <h2>Swish 1.2.2</h2>
+            <h3>Swish 1.2.2</h3>
             <ul>
             <li>Workaround for a <a href="https://github.com/feedback-assistant/reports/issues/75">bug in Catalina</a> where windows get unsnapped when switching between fullscreen spaces.</li>
             <li>Smoother unsnapping via dragging.</li>
@@ -124,14 +126,14 @@
             <li>Redesigned license view.</li>
             </ul>
 
-            <h2>Swish 1.2.1</h2>
+            <h3>Swish 1.2.1</h3>
             <ul>
             <li>Faster tab detaching.</li>
             <li>Small bugfixes.</li>
             </ul>
 
-            <h2>Swish 1.2</h2>
-            <h3>Features</h3>
+            <h3>Swish 1.2</h3>
+            <h4>Features</h4>
             <ul>
             <li>Gestures for tabs in native tab bars: detaching (chaining) and closing.</li>
             <li>Gestures will now automatically be cancelled after a custom timeout. Just keep holding until the tooltip disappears.</li>
@@ -140,7 +142,7 @@
             <li>Enabled tap, hold and pinch functionality. Can e.g. be used for quitting an app from a window or entering fullscreen mode on a window after activating from the Dock.</li>
             <li>Added a toggle for hiding the cursor on tooltips, as this can apparently cause issues with Sidecar.</li>
             </ul>
-            <h3>Fixes</h3>
+            <h4>Fixes</h4>
             <ul>
             <li>Asynchronous gesture pipeline for improved timing on gesture chaining.</li>
             <li>Improved settings window layout and onboarding. Also, gesture views now resize properly.</li>
@@ -155,14 +157,14 @@
             <li>Reverted to old tooltip for unsnapping via menubar.</li>
             <li>Unresponsive dock icons do not disrupt Swish anymore.</li>
             </ul>
-            <h3>Deprecations</h3>
+            <h4>Deprecations</h4>
             <ul>
             <li>Removed borderless tooltip option, as they tend to look weird.</li>
             <li>Removed 'Scroll To Top' gesture, as it did not work reliably.</li>
             </ul>
 
-            <h2>Swish 1.1</h2>
-            <h3>Features</h3>
+            <h3>Swish 1.1</h3>
+            <h4>Features</h4>
             <ul>
             <li>Gestures can now also be performed on the whole window area via super modifier key.</li>
             <li>Extended dock functionality to the menubar menu in non-fullscreen mode.</li>
@@ -172,7 +174,7 @@
             <li>New dock gesture: New Tab (⌘+N).</li>
             <li>On two monitor setups, windows can be made fullscreen directly on the other monitor by holding the screen modifier.</li>
             </ul>
-            <h3>Improvements</h3>
+            <h4>Improvements</h4>
             <ul>
             <li>New app and menubar icon. Sorry about the motion sickness!</li>
             <li>Swish can now block event propagation during and scroll momentum after gestures, improving the experience for Catalina apps, where scroll areas often extend to the titlebar.</li>
@@ -185,7 +187,7 @@
             <li>CPU usage is considerably improved.</li>
             <li>Added onboarding for new users as well as this update.</li>
             </ul>
-            <h3>Fixes</h3>
+            <h4>Fixes</h4>
             <ul>
             <li>Added wider support for non-native toolbars.</li>
             <li>Consistently block Popover/PiP windows.</li>
@@ -194,13 +196,13 @@
             <li>Minimizing windows does not cause a tooltip delay anymore.</li>
             <li>(Un)minimizing multiple windows via menubar gesture now works in parallel.</li>
             </ul>
-            <h3>Reassignments</h3>
+            <h4>Reassignments</h4>
             <ul>
             <li>Double tapping now unsnaps and centers a window.</li>
             <li>Tap, hold and swipe up to enter and exit fullscreen mode. Alternatively, use the general modifier.</li>
             <li>In fullscreen mode, tap and hold before swiping down to minimize. This prevents accidentals.</li>
             </ul>
-            <h3>Deprecations</h3>
+            <h4>Deprecations</h4>
             <ul>
             <li>Reset all modifier keys due to the new modifier architecture.</li>
             <li>Removed the cancel modifier, as this is handled by escape now.</li>
@@ -208,20 +210,20 @@
             <li>Removed 'Available Screens' tooltip option for reasons of simplicity.</li>
             <li>Removed the two biggest tooltip size options as they were comically large and removed monochrome color option due to weird look.</li>
             </ul>
-            <h3>Known Issues</h3>
+            <h4>Known Issues</h4>
             <ul>
             <li>Due to a bug on Apple's side, system-wide pinch and swipe gestures might stop working unexpectedly. Swish can try to re-enable them automatically or manually. In hard cases, setting your machine to sleep briefly fixes that behavior.</li>
             <li>The contents of the preference window might not properly resize under certain circumstances. (pls send help)</li>
             </ul>
 
-            <h2>Swish 1.0.1</h2>
+            <h3>Swish 1.0.1</h3>
             <ul>
             <li>Added support for 'non-natural' (legacy) scrolling.</li>
             <li>Gestures can now be cancelled by pressing 'Esc'</li>
             <li>New gesture: Center a window by double tapping with a modifier key.</li>
             </ul>
 
-            <h2>Swish 1.0</h2>
+            <h3>Swish 1.0</h3>
             <ul>
             <li>Initial release.</li>
             </ul>
