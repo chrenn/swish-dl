@@ -6,10 +6,22 @@
 
         <item>
         
-            <title>Swish 1.8</title>
+            <title>Swish 1.8.1</title>
 
             <description><![CDATA[
             <b>🌟 Like Swish? Write a review on <a href="https://www.producthunt.com/posts/swish-7/reviews">Product Hunt</a>, <a href="https://alternativeto.net/software/swish-app/">AlternativeTo</a> or <a href="https://www.slant.co/topics/526/viewpoints/39/~best-window-manager-for-mac~swish">Slant</a>.</b>
+
+            <b>🚨 <a href="https://github.com/feedback-assistant/reports/issues/235">Tap & Hold is broken in Monterey and it's up to Apple to fix it.</a></b>
+
+            <h2>Swish 1.8.1</h2>
+            <ul>
+            <li>General compatibility with macOS 12 and Safari 15.</li>
+            <li>Added a Safari checkbox to tab gestures so they can be ignored in compact mode if needed.</li>
+            <li>Combined Chrome & Edge in tab gestures as they are basically the same browser.</li>
+            <li>Added a fourth snappiness level as Monterey somehow decreases sensitivity. (WTF, Apple?)</li>
+            <li>Added Vim layout (HJKL) to arrow hotkeys.</li>
+            <li>Fixed a bug where the grid offset would not be applied immediately.</li>
+            </ul>
 
             <h2>Swish 1.8</h2>
             <h3>Features</h3>
@@ -215,11 +227,11 @@
             </ul>
             ]]></description>
 
-            <pubDate>Fri, 02 Jul 2021 17:56:19 +0200</pubDate>
+            <pubDate>Wed, 27 Oct 2021 14:05:11 +0200</pubDate>
             <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/chrenn/swish-dl/releases/download/1.8/Swish.sparkle.zip" sparkle:version="48" sparkle:shortVersionString="1.8" length="7640064" type="application/octet-stream" sparkle:edSignature="PiOAuL2UBj6atByG8jgI0OKfA7F5LX2PMIyWTCMXOHsjk180DkS/ETAK4LJ+7b4gEn5msgCn4vncG7/BTY1CCQ=="/>
+            <enclosure url="https://github.com/chrenn/swish-dl/releases/download/1.8.1/Swish.sparkle.zip" sparkle:version="50" sparkle:shortVersionString="1.8.1" length="7472495" type="application/octet-stream" sparkle:edSignature="3d3B0k4zXGFyeEftsK0Am/ztsmU+3YWOF7SUx9ji96tNiVYoocSyBhaSZ35B3beTme54cwG2r6ZO7ExX7jDTCw=="/>
             <sparkle:deltas>
-                <enclosure url="https://github.com/chrenn/swish-dl/releases/download/1.8/Swish.sparkle.delta" sparkle:version="48" sparkle:shortVersionString="1.8" sparkle:deltaFrom="44" length="1552044" type="application/octet-stream" sparkle:edSignature="kAktBlXrXHbDtWc0NVaP6F3VXNI+6D9zltchoz63cL6DxYZKJhSMbYA0wg7YcVq97da8s6cOz3Ic1TFzeYEMBg=="/>
+                <enclosure url="https://github.com/chrenn/swish-dl/releases/download/1.8.1/Swish.sparkle.delta" sparkle:version="50" sparkle:shortVersionString="1.8.1" sparkle:deltaFrom="48" length="1303498" type="application/octet-stream" sparkle:edSignature="eua6TYdl3ZsNjwPucRsRCyhTHt+PiSHst90I76UhVrM67JuqTeqYEKtNOPqmhmwUaZnP6DRUl/jJy4WFWfp/DQ=="/>
             </sparkle:deltas>
 
         </item>
