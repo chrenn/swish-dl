@@ -6,14 +6,22 @@
 
         <item>
         
-            <title>Swish 1.8.1</title>
+            <title>Swish 1.9.1</title>
 
             <description><![CDATA[
             <style> html { font-size: 13px } </style>
 
-            <p><b>🌟 Like Swish? Write a review on <a href="https://www.producthunt.com/posts/swish-7/reviews">Product Hunt</a>, <a href="https://alternativeto.net/software/swish-app/">AlternativeTo</a> or <a href="https://www.slant.co/topics/526/viewpoints/39/~best-window-manager-for-mac~swish">Slant</a>.</b></p>
+            <p><b>🌟 Like Swish? Write a review on <a href="https://www.producthunt.com/products/swish/reviews">Product Hunt</a>, <a href="https://alternativeto.net/software/swish-app/">AlternativeTo</a> or <a href="https://www.slant.co/topics/526/viewpoints/39/~best-window-manager-for-mac~swish">Slant</a>.</b></p>
 
-            <p><b>🚨 Tap & Hold is broken in Monterey and it's up to Apple to <a href="https://github.com/feedback-assistant/reports/issues/235">fix</a> it.</b></p>
+            <h3>Swish 1.9</h3>
+            <ul>
+            <li>General compatibility with macOS 13.</li>
+            <li>New gesture: Move spaces between screens via Mission Control.</li>
+            <li>‘Fix Pinch & Swipe’ now utilises a short display sleep and can be invoked via menubarlet or keyboard shortcut.</li>
+            <li>MODIFIERS NOW ALSO WORK WITH CAPSLOCK ENABLED.</li>
+            <li>On external keyboards, PgUp/PgDown/Home/End/FwdDel do not trigger arrow hotkeys anymore.</li>
+            <li>Prevent accidental re-snapping when the Dock is set to auto hide.</li>
+            </ul>
 
             <h3>Swish 1.8.1</h3>
             <ul>
@@ -229,11 +237,11 @@
             </ul>
             ]]></description>
 
-            <pubDate>Wed, 27 Oct 2021 14:05:11 +0200</pubDate>
+            <pubDate>Fri, 21 Oct 2022 13:55:55 +0200</pubDate>
             <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/chrenn/swish-dl/releases/download/1.8.1/Swish.sparkle.zip" sparkle:version="50" sparkle:shortVersionString="1.8.1" length="7472495" type="application/octet-stream" sparkle:edSignature="3d3B0k4zXGFyeEftsK0Am/ztsmU+3YWOF7SUx9ji96tNiVYoocSyBhaSZ35B3beTme54cwG2r6ZO7ExX7jDTCw=="/>
+            <enclosure url="https://github.com/chrenn/swish-dl/releases/download/1.9-beta/Swish.sparkle.zip" sparkle:version="51" sparkle:shortVersionString="1.9-beta1" length="7771330" type="application/octet-stream" sparkle:edSignature="9Gfsx0bE0oDpNHjgg8rXGD6tyUDcvSLjKTGjvyboqem5ADqvKfHFMG8g8rK+0F+hC8BLxI9EkCllhNsGce/hAQ=="/>
             <sparkle:deltas>
-                <enclosure url="https://github.com/chrenn/swish-dl/releases/download/1.8.1/Swish.sparkle.delta" sparkle:version="50" sparkle:shortVersionString="1.8.1" sparkle:deltaFrom="48" length="1303498" type="application/octet-stream" sparkle:edSignature="eua6TYdl3ZsNjwPucRsRCyhTHt+PiSHst90I76UhVrM67JuqTeqYEKtNOPqmhmwUaZnP6DRUl/jJy4WFWfp/DQ=="/>
+                <enclosure url="https://github.com/chrenn/swish-dl/releases/download/1.9-beta/Swish.sparkle.delta" sparkle:version="51" sparkle:shortVersionString="1.9-beta1" sparkle:deltaFrom="50" length="1798311" type="application/octet-stream" sparkle:edSignature="WU9awaK/mvck7HJYPJk9uJEMBFDcXYy8Ty+XPHOdNtMfyAIoNJWNuDkRKtRIf2OfMrHZIN7FlykUgh3W8kn1CA=="/>
             </sparkle:deltas>
 
         </item>
