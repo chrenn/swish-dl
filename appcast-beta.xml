@@ -6,12 +6,12 @@
 
         <item>
         
-            <title>Swish 1.9.1</title>
+            <title>Swish 1.9</title>
 
             <description><![CDATA[
             <style> html { font-size: 13px } </style>
 
-            <p><b>🌟 Like Swish? Write a review on <a href="https://www.producthunt.com/products/swish/reviews">Product Hunt</a>, <a href="https://alternativeto.net/software/swish-app/">AlternativeTo</a> or <a href="https://www.slant.co/topics/526/viewpoints/39/~best-window-manager-for-mac~swish">Slant</a>.</b></p>
+            <p>🌟 Like Swish? Write a review on <a href="https://www.producthunt.com/products/swish/reviews">Product Hunt</a>, <a href="https://alternativeto.net/software/swish-app/">AlternativeTo</a> or <a href="https://www.slant.co/topics/526/viewpoints/39/~best-window-manager-for-mac~swish">Slant</a>.</p>
 
             <h3>Swish 1.9</h3>
             <ul>
@@ -237,11 +237,11 @@
             </ul>
             ]]></description>
 
-            <pubDate>Fri, 21 Oct 2022 13:55:55 +0200</pubDate>
+            <pubDate>Sun, 23 Oct 2022 18:43:10 +0200</pubDate>
             <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/chrenn/swish-dl/releases/download/1.9-beta/Swish.sparkle.zip" sparkle:version="51" sparkle:shortVersionString="1.9-beta1" length="7771330" type="application/octet-stream" sparkle:edSignature="9Gfsx0bE0oDpNHjgg8rXGD6tyUDcvSLjKTGjvyboqem5ADqvKfHFMG8g8rK+0F+hC8BLxI9EkCllhNsGce/hAQ=="/>
+            <enclosure url="https://github.com/chrenn/swish-dl/releases/download/1.9/Swish.sparkle.zip" sparkle:version="52" sparkle:shortVersionString="1.9" length="7771175" type="application/octet-stream" sparkle:edSignature="dHKpOOrChc/kKfPFKmqorAyi6pu11e98I/2fz5MCBwcOiTbat11eBgtIwywpd857WkOjJx50Gkv1PNiLBN2+BQ=="/>
             <sparkle:deltas>
-                <enclosure url="https://github.com/chrenn/swish-dl/releases/download/1.9-beta/Swish.sparkle.delta" sparkle:version="51" sparkle:shortVersionString="1.9-beta1" sparkle:deltaFrom="50" length="1798311" type="application/octet-stream" sparkle:edSignature="WU9awaK/mvck7HJYPJk9uJEMBFDcXYy8Ty+XPHOdNtMfyAIoNJWNuDkRKtRIf2OfMrHZIN7FlykUgh3W8kn1CA=="/>
+                <enclosure url="https://github.com/chrenn/swish-dl/releases/download/1.9/Swish.sparkle.delta" sparkle:version="52" sparkle:shortVersionString="1.9" sparkle:deltaFrom="50" length="1802190" type="application/octet-stream" sparkle:edSignature="IOXNq1cQewcblUyOVCjGyWP0W6m3dmwkh4E1ztJmc8HDvfHR35pUVqp7Uairt5vOZjxS8p3Go35k9WwHA8r+DQ=="/>
             </sparkle:deltas>
 
         </item>
