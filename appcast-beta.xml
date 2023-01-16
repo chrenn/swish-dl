@@ -6,18 +6,27 @@
 
         <item>
         
-            <title>Swish 1.9.1</title>
+            <title>Swish 1.10</title>
 
             <description><![CDATA[
-            <style> html { font-size: 12px } </style>
+            <style> html { font-size: 11px } </style>
 
             <p>🌟 Like Swish? Write a review on <a href="https://www.producthunt.com/products/swish/reviews">Product Hunt</a>, <a href="https://alternativeto.net/software/swish-app/">AlternativeTo</a> or <a href="https://www.slant.co/topics/526/viewpoints/39/~best-window-manager-for-mac~swish">Slant</a>.</p>
 
+            <h3>Swish 1.10</h3>
+            <ul>
+            <li>Stage Manager support: Activate/deactivate Stage Manager via Swish's menubarlet</li>
+            <li>Improved Launch at Login reliability on macOS 13.</li>
+            <li>Restored tab support for the latest version of Microsoft Edge.</li>
+            <li>Improved license activation reliability. Unfortunately, an activation now only counts for a single user on a machine as this was causing issues.</li>
+            <li>Switched to .dmg from .zip app distribution format to mitigate app translocation problems.</li>
+            </ul>
+            
             <h3>Swish 1.9.1</h3>
             <ul>
             <li>General compatibility with macOS 13.</li>
             <li>New gesture: Move spaces between screens via Mission Control.</li>
-            <li>‘Fix Pinch & Swipe’ now utilises a short display sleep and can be invoked via menubarlet or keyboard shortcut.</li>
+            <li>'Fix Pinch & Swipe' now utilises a short display sleep and can be invoked via menubarlet or keyboard shortcut.</li>
             <li>MODIFIERS NOW ALSO WORK WITH CAPSLOCK ENABLED.</li>
             <li>On external keyboards, PgUp/PgDown/Home/End/FwdDel do not trigger arrow hotkeys anymore.</li>
             <li>Prevent accidental re-snapping when the Dock is set to auto hide.</li>
@@ -237,11 +246,11 @@
             </ul>
             ]]></description>
 
-            <pubDate>Mon, 24 Oct 2022 00:05:29 +0200</pubDate>
+            <pubDate>Mon, 16 Jan 2023 11:20:18 +0100</pubDate>
             <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/chrenn/swish-dl/releases/download/1.9.1/Swish.sparkle.zip" sparkle:version="53" sparkle:shortVersionString="1.9.1" length="7771647" type="application/octet-stream" sparkle:edSignature="9Xq+2q2f0AUcSnriVXnGWUniSpgv2+mVnMt9UtB09ePgxEu7IghnqGV+cms0MbRmgvK9W8YQjab1CdmNlkV4Dg=="/>
+            <enclosure url="https://github.com/chrenn/swish-dl/releases/download/1.10/Swish.sparkle.zip" sparkle:version="55" sparkle:shortVersionString="1.10" length="9097411" type="application/octet-stream" sparkle:edSignature="5GTZm7iF93fv9fFdBYLJn0c91v3EbihmLJG1/PdtLd9awo2nMjMSeqX/2ihzGtHOOG5CBvNwm5e2Inr+EnKdDw=="/>
             <sparkle:deltas>
-                <enclosure url="https://github.com/chrenn/swish-dl/releases/download/1.9.1/Swish.sparkle.delta" sparkle:version="53" sparkle:shortVersionString="1.9.1" sparkle:deltaFrom="50" length="1798114" type="application/octet-stream" sparkle:edSignature="tcCBpvayWu1YjBg/zpYwXsB7Y9gGRru6x2WdaFJPbcKv+aSEnImybvrchY3gzzYgiLQ661qzBvjvmQ7WWJ7tAw=="/>
+                <enclosure url="https://github.com/chrenn/swish-dl/releases/download/1.10/Swish.sparkle.delta" sparkle:version="55" sparkle:shortVersionString="1.10" sparkle:deltaFrom="53" length="1080893" type="application/octet-stream" sparkle:edSignature="XVeNuwbsTr7co+5e8UbMg1LA7/rx2KXyaWILOOaXF0WcVDLPZcHtKzm5ktU149lImQ826edg8iSVNExZyEISCQ=="/>
             </sparkle:deltas>
 
         </item>
