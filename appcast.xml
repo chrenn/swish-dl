@@ -16,15 +16,11 @@
 
             <h3>Swish 1.10.2</h3>
             <ul>
-            <li>Improved Accessibility/Input Monitoring permissions for new installations.</li>
-            </ul>
-
-            <h3>Swish 1.10.1</h3>
-            <ul>
             <li>Support for tabs in VS Code and Orion browser, vertical tabs in Edge and Easels in Arc.</li>
             <li>Fixed a bug where gestures would trigger on HTML tab elements and PDF thumbnails in Chromium browsers.</li>
             <li>Improved Dock auto hide detection to prevent accidental re-snapping.</li>
             <li>Fixed a bug where super modifier + Esc would trigger a Center action even with arrow hotkeys disabled.</li>
+            <li>Improved Accessibility permissions (no Input Monitoring popup) for new installations.</li>
             </ul>
 
             <h3>Swish 1.10</h3>
