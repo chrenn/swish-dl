@@ -6,7 +6,7 @@
 
         <item>
         
-            <title>Swish 1.10.2</title>
+            <title>Swish 1.10.3</title>
 
             <description><![CDATA[
             <style> html { font-size: 11px } </style>
@@ -14,6 +14,11 @@
             <!-- <p>Thanks for trying the beta! Please report any bugs to <a href="mailto:info@highlyopinionated.co">info@highlyopinionated.co</a> 🪲</p> -->
             <p>🌟 Like Swish? Write a review on <a href="https://www.producthunt.com/products/swish/reviews/new">Product Hunt</a>, <a href="https://alternativeto.net/software/swish-app/">AlternativeTo</a> or <a href="https://www.slant.co/topics/526/viewpoints/39/~best-window-manager-for-mac~swish">Slant</a>.</p>
 
+            <h3>Swish 1.10.3</h3>
+            <ul>
+            <li>Updated dependencies for macOS 14 (Sonoma).</li>
+            </ul>
+            
             <h3>Swish 1.10.2</h3>
             <ul>
             <li>Support for tabs in VS Code and Orion browser, vertical tabs in Edge and Easels in Arc.</li>
@@ -257,11 +262,11 @@
             </ul>
             ]]></description>
 
-            <pubDate>Fri, 02 Jun 2023 18:19:36 +0200</pubDate>
+            <pubDate>Thu, 23 Nov 2023 22:46:53 +0100</pubDate>
             <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/chrenn/swish-dl/releases/download/1.10.2/Swish.sparkle.dmg" sparkle:version="61" sparkle:shortVersionString="1.10.2" length="9097998" type="application/octet-stream" sparkle:edSignature="88dHTxt4AXs9yAX90Q6YJrXHn16/dp8u7GrlA9SQ069TfhxP+F4RFcmeYyk2ka/oy0YzB41LI66nygGzzHLdAw=="/>
+            <enclosure url="https://github.com/chrenn/swish-dl/releases/download/1.10.3/Swish.sparkle.dmg" sparkle:version="63" sparkle:shortVersionString="1.10.3" length="9084609" type="application/octet-stream" sparkle:edSignature="QTpQXKd8e9IVu1bJ6wyh4dhagRrjsR5qzdhwX37I1Rzyzo4Kr6drFUcrat21DEzM5LGM14lxissjPFXf3moIDQ=="/>
             <sparkle:deltas>
-                <enclosure url="https://github.com/chrenn/swish-dl/releases/download/1.10.2/Swish.sparkle.delta" sparkle:version="61" sparkle:shortVersionString="1.10.2" sparkle:deltaFrom="59" length="260236" type="application/octet-stream" sparkle:edSignature="yIiLq8xpMp9vRkZiINUx6aNNgy/tENG7yxIqG4pFzurffloTPUYxxbNfJ84sAbnK1nL27pkU4sjCrTIivqtICw=="/>
+                <enclosure url="https://github.com/chrenn/swish-dl/releases/download/1.10.3/Swish.sparkle.delta" sparkle:version="63" sparkle:shortVersionString="1.10.3" sparkle:deltaFrom="61" length="1124595" type="application/octet-stream" sparkle:edSignature="zalQLQGxBU4HM7A1iZhVweKsqOuh1jk8MP8glTZppDuFszBmYNVivMkSwyXE/JdvrYmSppu/vgVrpmjxd/5JCA=="/>
             </sparkle:deltas>
 
         </item>
