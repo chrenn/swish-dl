@@ -272,7 +272,7 @@
             <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/chrenn/swish-dl/releases/download/1.10.4/Swish.sparkle.dmg" sparkle:version="64" sparkle:shortVersionString="1.10.4" length="9176576" type="application/octet-stream" sparkle:edSignature="somWXg7DCi4bVQmWmvlYjZTp4L0C1y2WKbEB4bFNw/GJYQG6QFFvn/UsW1uQ3NUFVfDpVhNrkQpg1S7zLm1jDQ=="/>
             <sparkle:deltas>
-                <enclosure url="https://github.com/chrenn/swish-dl/releases/download/1.10.4/Swish.sparkle.dmg" sparkle:version="64" sparkle:shortVersionString="1.10.4" sparkle:deltaFrom="63" length="1158184" type="application/octet-stream" sparkle:edSignature="scm+9uqYXhhH5JY5UNyO8AzSlC0Qsi+1BZ17wr8SSE3PoZ+5oSY8Gm1uiNFwBZmFu3UUpATd770fQy89pWPBBQ=="/>
+                <enclosure url="https://github.com/chrenn/swish-dl/releases/download/1.10.4/Swish.sparkle.delta" sparkle:version="64" sparkle:shortVersionString="1.10.4" sparkle:deltaFrom="63" length="1158184" type="application/octet-stream" sparkle:edSignature="scm+9uqYXhhH5JY5UNyO8AzSlC0Qsi+1BZ17wr8SSE3PoZ+5oSY8Gm1uiNFwBZmFu3UUpATd770fQy89pWPBBQ=="/>
             </sparkle:deltas>
 
         </item>
