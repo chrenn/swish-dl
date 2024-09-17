@@ -18,6 +18,7 @@
             <h3>Swish 1.10.4</h3>
             <ul>
             <li>Updated dependencies for macOS 15 (Sequoia).</li>
+            <li>Smoother live tooltip animation.</li>
             <li>Improved compatibility with Mac Mouse Fix.</li>
             </ul>
 
