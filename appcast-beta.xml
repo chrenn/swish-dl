@@ -55,11 +55,11 @@
             </ul>
             ]]></description>
 
-            <pubDate>Tue, 15 Oct 2024 23:06:40 +0200</pubDate>
+            <pubDate>Tue, 22 Oct 2024 00:34:26 +0200</pubDate>
             <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/chrenn/swish-dl/releases/download/1.11/Swish.sparkle.dmg" sparkle:version="70" sparkle:shortVersionString="1.11" length="9197976" type="application/octet-stream" sparkle:edSignature="krm3/CUwoB6HYr4HHfoXspQVYwO72FKJpGj8f2qXek/sjEYyXl/FMj28HHFCFIF/C6dkx7jQqsixtTdv6tcRBw=="/>
+            <enclosure url="https://github.com/chrenn/swish-dl/releases/download/1.11/Swish.sparkle.dmg" sparkle:version="71" sparkle:shortVersionString="1.11" length="9197091" type="application/octet-stream" sparkle:edSignature="H8ptgE++olz0H+3uZ8j8/IuzO2zC6s+bX3XCk8fLZsBRKckLHj4dFwrRs6aXlO/T9RGIYb+T7nyv7l15ISIiAw=="/>
             <sparkle:deltas>
-                <enclosure url="https://github.com/chrenn/swish-dl/releases/download/1.11/Swish.sparkle.delta" sparkle:version="70" sparkle:shortVersionString="1.11" sparkle:deltaFrom="64" length="396813" type="application/octet-stream" sparkle:edSignature="iVMTdMzYBXd1lEdDhEQD7DThlg3DTeY4GdNpJVK2BN4JvGt/Mq7FifCrH9+y3fWqv07DmOT+U6LsljpdBygcCQ=="/>
+                <enclosure url="https://github.com/chrenn/swish-dl/releases/download/1.11/Swish.sparkle.delta" sparkle:version="71" sparkle:shortVersionString="1.11" sparkle:deltaFrom="64" length="405861" type="application/octet-stream" sparkle:edSignature="LXPputVtC326skOZnlcJdEsWV25V8q5akKTwT02FbDtccChs6GVrjOpprOQrUkdJ7L5H/T7P7e8TENTX4Y3aDA=="/>
             </sparkle:deltas>
 
         </item>
