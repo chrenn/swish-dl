@@ -6,7 +6,7 @@
 
         <item>
         
-            <title>Swish 1.11</title>
+            <title>Swish 1.12</title>
 
             <description><![CDATA[
             <style> html { font-size: 11px } </style>
@@ -15,6 +15,17 @@
             <!-- <p>Thanks for trying the beta! Please report any bugs to <a href="mailto:info@highlyopinionated.co">info@highlyopinionated.co</a> 🪲</p> -->
             <!-- <p>🌟 Like Swish? Write a review on <a href="https://www.producthunt.com/products/swish/reviews/new">Product Hunt</a>, <a href="https://alternativeto.net/software/swish-app/">AlternativeTo</a> or <a href="https://www.slant.co/topics/526/viewpoints/39/~best-window-manager-for-mac~swish">Slant</a>.</p> -->
 
+            <h3>Swish 1.12</h3>
+            <ul>
+            <li>Added Stage Manager auto-detection and a custom offset slider for its recent apps area.</li>
+            <li>Synced grid spacing when ‘Sequoia Window Tiling’ is enabled.</li>
+            <li>Improved window detection for apps that block the Accessibility API (e.g. Adobe and Affinity).</li>
+            <li>Improved speed of the ‘Minimize/Unminimize All’ menubar gesture.</li>
+            <li>Added Dock gesture support for apps that do not have a macOS app bundle ID.</li>
+            <li>Fixed a bug where windows would be re-snapped erroneously after exiting fullscreen mode.</li>
+            <li>Fixed a crash when interacting with unbundled symlinked applications launched via Terminal.</li>
+            </ul>
+            
             <h3>Swish 1.11</h3>
             <ul>
             <li>Added the option to use macOS Sequoia’s native window tiling for 2×2 snapping.</li>
@@ -55,11 +66,11 @@
             </ul>
             ]]></description>
 
-            <pubDate>Tue, 22 Oct 2024 00:34:26 +0200</pubDate>
+            <pubDate>Thu, 20 Feb 2025 00:24:09 +0100</pubDate>
             <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/chrenn/swish-dl/releases/download/1.11/Swish.sparkle.dmg" sparkle:version="71" sparkle:shortVersionString="1.11" length="9197091" type="application/octet-stream" sparkle:edSignature="H8ptgE++olz0H+3uZ8j8/IuzO2zC6s+bX3XCk8fLZsBRKckLHj4dFwrRs6aXlO/T9RGIYb+T7nyv7l15ISIiAw=="/>
+            <enclosure url="https://github.com/chrenn/swish-dl/releases/download/1.12/Swish.sparkle.dmg" sparkle:version="72" sparkle:shortVersionString="1.12" length="9219303" type="application/octet-stream" sparkle:edSignature="JSAU/CH+oq1uO6Le3f6zWR7DV0dtnwNx2exCKLwss0jyYfC1B5I8r5mU9DHgGexQDV2aShY4j2n24YWhiXuaDQ=="/>
             <sparkle:deltas>
-                <enclosure url="https://github.com/chrenn/swish-dl/releases/download/1.11/Swish.sparkle.delta" sparkle:version="71" sparkle:shortVersionString="1.11" sparkle:deltaFrom="64" length="405861" type="application/octet-stream" sparkle:edSignature="LXPputVtC326skOZnlcJdEsWV25V8q5akKTwT02FbDtccChs6GVrjOpprOQrUkdJ7L5H/T7P7e8TENTX4Y3aDA=="/>
+                <enclosure url="https://github.com/chrenn/swish-dl/releases/download/1.12/Swish.sparkle.delta" sparkle:version="72" sparkle:shortVersionString="1.12" sparkle:deltaFrom="71" length="338347" type="application/octet-stream" sparkle:edSignature="9CzFBiX23UHDLHwLad6LEgFSGynb5vLgxYDY9BnGEsYDjDj+Kls68HQ5MM0BoIDKPg+No0F73U9mauBkOGTiCg=="/>
             </sparkle:deltas>
 
         </item>
