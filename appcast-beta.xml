@@ -6,7 +6,7 @@
 
         <item>
         
-            <title>Swish 1.12</title>
+            <title>Swish 1.13</title>
 
             <description><![CDATA[
             <style> html { font-size: 11px } </style>
@@ -15,6 +15,18 @@
             <!-- <p>Thanks for trying the beta! Please report any bugs to <a href="mailto:info@highlyopinionated.co">info@highlyopinionated.co</a> 🪲</p> -->
             <!-- <p>🌟 Like Swish? Write a review on <a href="https://www.producthunt.com/products/swish/reviews/new">Product Hunt</a>, <a href="https://alternativeto.net/software/swish-app/">AlternativeTo</a> or <a href="https://www.slant.co/topics/526/viewpoints/39/~best-window-manager-for-mac~swish">Slant</a>.</p> -->
 
+            <h3>Swish 1.13</h3>
+            <ul>
+            <li>General compatibility with macOS 26 (Tahoe) and a new Liquid Glass app icon.</li>
+            <li>Restored tab detection for Safari 26.</li>
+            <li>Restored tab detection for Chrome and Brave related to a recent change in Chromium. Unfortunately, tab detection for Microsoft Edge cannot be restored.</li>
+            <li>Added tab detection for Dia browser.</li>
+            <li>Fixed a bug where gestures would not work on a Catalyst app’s dock icon.</li>
+            <li>Fixed a bug where some windows could not be moved between spaces.</li>
+            <li>Fixed a bug where windows from applications with an additional "Script" menu could not be tiled natively.</li>
+            <li>Fixed a bug where windows from applications using the JUCE framework were not recognized properly.</li>
+            </ul>
+            
             <h3>Swish 1.12</h3>
             <ul>
             <li>Added Stage Manager auto-detection and a custom offset slider for its recent apps area.</li>
@@ -33,44 +45,13 @@
             <li>Disabled gestures on scrollable sliders in toolbars, e.g. in Music.app.</li>
             <li>Fixed a bug where Swish would crash when minimizing its own settings window.</li>
             </ul>
-
-            <h3>Swish 1.10.4</h3>
-            <ul>
-            <li>Updated dependencies for macOS 15 (Sequoia).</li>
-            <li>Smoother live tooltip animation.</li>
-            <li>Improved compatibility with Mac Mouse Fix.</li>
-            </ul>
-
-            <h3>Swish 1.10.3</h3>
-            <ul>
-            <li>Updated dependencies for macOS 14 (Sonoma).</li>
-            </ul>
-            
-            <h3>Swish 1.10.2</h3>
-            <ul>
-            <li>Support for tabs in VS Code and Orion browser, vertical tabs in Edge and Easels in Arc.</li>
-            <li>Fixed a bug where gestures would trigger on HTML tab elements and PDF thumbnails in Chromium browsers.</li>
-            <li>Improved Dock auto hide detection to prevent accidental re-snapping.</li>
-            <li>Fixed a bug where super modifier + Esc would trigger a Center action even with arrow hotkeys disabled.</li>
-            <li>Improved Accessibility permissions (no Input Monitoring popup) for new installations.</li>
-            </ul>
-
-            <h3>Swish 1.10</h3>
-            <ul>
-            <li>Stage Manager support: Activate/deactivate Stage Manager via Swish's menubarlet</li>
-            <li>Support for closing tabs in Arc browser.</li>
-            <li>Improved Launch at Login reliability on macOS 13.</li>
-            <li>Restored tab support for the latest version of Microsoft Edge.</li>
-            <li>Improved license activation reliability. Unfortunately, an activation now only counts for a single user on a machine as this was causing issues.</li>
-            <li>Switched to .dmg from .zip app distribution format to mitigate app translocation problems.</li>
-            </ul>
             ]]></description>
 
-            <pubDate>Tue, 25 Feb 2025 00:49:49 +0100</pubDate>
+            <pubDate>Wed, 17 Sep 2025 16:25:16 +0200</pubDate>
             <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/chrenn/swish-dl/releases/download/1.12/Swish.sparkle.dmg" sparkle:version="73" sparkle:shortVersionString="1.12" length="9225035" type="application/octet-stream" sparkle:edSignature="Y4PpKF7776NFn6vIqP3x0/3SvWDEmD5Af1utK57jql+EycpVNrm5xT4OlOPykM10Wy9iqeOzvXf6EJIuXAV/Aw=="/>
+            <enclosure url="https://github.com/chrenn/swish-dl/releases/download/1.13/Swish.sparkle.dmg" sparkle:version="75" sparkle:shortVersionString="1.13" length="10960309" type="application/octet-stream" sparkle:edSignature="+hDDKkwur6g5h3Ih9E1SysCnW1kVA/dJNOuGpSqv50ULfLyF51ZRs6Fzu+D5ZXVNleqpBvS8fQgslgIei8g1Aw=="/>
             <sparkle:deltas>
-                <enclosure url="https://github.com/chrenn/swish-dl/releases/download/1.12/Swish.sparkle.delta" sparkle:version="73" sparkle:shortVersionString="1.12" sparkle:deltaFrom="71" length="365460" type="application/octet-stream" sparkle:edSignature="aXmRjj9Td7//qxLJBus5pv2cEkSMP9JnNtGLxgY/BPGH7abq/un8+SwxetVDqs6rH8VLCjIWSQNd5CA/Ccv9Bg=="/>
+                <enclosure url="https://github.com/chrenn/swish-dl/releases/download/1.13/Swish.sparkle.delta" sparkle:version="75" sparkle:shortVersionString="1.13" sparkle:deltaFrom="73" length="3791815" type="application/octet-stream" sparkle:edSignature="HVo29YXyTS1qlOKewG6SpJJ28VoiPxVL0GJnrl6uO9xesJovpUYQtQ9IlFZxXUfBWVXFtRrw9xD9KGVfGa/rCw=="/>
             </sparkle:deltas>
 
         </item>
