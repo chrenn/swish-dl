@@ -17,9 +17,10 @@
 
             <h3>Swish 1.13.1</h3>
             <ul>
-            <li>Added tab detection for Firefox since they now properly implement the Accessibility API.</li>
+            <li>Added tab detection for Firefox since it now properly implements the Accessibility API.</li>
             <li>Restored tab detection for Orion browser in macOS 26.</li>
             <li>Removed checkboxes and instead named and enabled all apps that support tab detection in Settings → Windows → Tabs as the list got too long.</li>
+            <li>Fixed a bug where gestures would not work on some dock icons.</li>
             </ul>
             
             <h3>Swish 1.13</h3>
@@ -54,11 +55,11 @@
             </ul>
             ]]></description>
 
-            <pubDate>Thu, 16 Oct 2025 20:36:04 +0200</pubDate>
+            <pubDate>Mon, 20 Oct 2025 00:59:16 +0200</pubDate>
             <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/chrenn/swish-dl/releases/download/1.13.1/Swish.sparkle.dmg" sparkle:version="77" sparkle:shortVersionString="1.13.1" length="10999332" type="application/octet-stream" sparkle:edSignature="Fi9LEW5jk/ModZgD/+Mj7srGxdBZYun8azzz6hyAmgKnuN7/E9bRcG1HlwGtOZ3rokQ1MtHbX0q50kf1jPgOBg=="/>
+            <enclosure url="https://github.com/chrenn/swish-dl/releases/download/1.13.1/Swish.sparkle.dmg" sparkle:version="78" sparkle:shortVersionString="1.13.1" length="11003861" type="application/octet-stream" sparkle:edSignature="uvRHdGR4B0s5Q8u5MTn40413Lkiezo4YWOFw4mXTR7NYJva7a6euEn/nXlUZT44JKCCICq6VFSW1GL9d7Q9xBg=="/>
             <sparkle:deltas>
-                <enclosure url="https://github.com/chrenn/swish-dl/releases/download/1.13.1/Swish.sparkle.delta" sparkle:version="77" sparkle:shortVersionString="1.13.1" sparkle:deltaFrom="75" length="452391" type="application/octet-stream" sparkle:edSignature="aRUHaW3PbSWVCBnjFaIstrsCFxER3yL2DtOH9a8qQi2iqpaJXskRtAT9rkdzbuk2wso8ZXChlPjk3J1sSLpYDw=="/>
+                <enclosure url="https://github.com/chrenn/swish-dl/releases/download/1.13.1/Swish.sparkle.delta" sparkle:version="78" sparkle:shortVersionString="1.13.1" sparkle:deltaFrom="75" length="459153" type="application/octet-stream" sparkle:edSignature="gnOe0kl7g7EY9BXHYSpAg67l/SU+WP2AaTaLEMBw172bkNWAs0szka242oppm9Em0OUt4efPQhKa2Bxe/ihJDw=="/>
             </sparkle:deltas>
 
         </item>
