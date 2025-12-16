@@ -15,10 +15,18 @@
             <!-- <p>Thanks for trying the beta! Please report any bugs to <a href="mailto:info@highlyopinionated.co">info@highlyopinionated.co</a> 🪲</p> -->
             <!-- <p>🌟 Like Swish? Write a review on <a href="https://www.producthunt.com/products/swish/reviews/new">Product Hunt</a>, <a href="https://alternativeto.net/software/swish-app/">AlternativeTo</a> or <a href="https://www.slant.co/topics/526/viewpoints/39/~best-window-manager-for-mac~swish">Slant</a>.</p> -->
 
+            <h3>Swish 1.13.2</h3>
+            <ul>
+            <li>Added tab support for UPDF.</li>
+            <li>Restored tab support for Dia and for Safari on macOS 26.2.</li>
+            <li>Improved Firefox tab support to respect scrollable tab bar. Snapping gestures still work outside the tab bar or by using the Super Modifier.</li>
+            <li>Fixed a bug where some windows could not be sent to another space.</li>
+            </ul>
+            
             <h3>Swish 1.13.1</h3>
             <ul>
-            <li>Added tab detection for Firefox since it now properly implements the Accessibility API.</li>
-            <li>Restored tab detection for Orion browser in macOS 26.</li>
+            <li>Added tab support for Firefox since it now properly implements the Accessibility API.</li>
+            <li>Restored tab support for Orion browser in macOS 26.</li>
             <li>Removed checkboxes and instead named and enabled all apps that support tab detection in Settings → Windows → Tabs as the list got too long.</li>
             <li>Fixed a bug where gestures would not work on some dock icons.</li>
             </ul>
@@ -26,9 +34,9 @@
             <h3>Swish 1.13</h3>
             <ul>
             <li>General compatibility with macOS 26 (Tahoe) and a new Liquid Glass app icon.</li>
-            <li>Restored tab detection for Safari 26.</li>
-            <li>Restored tab detection for Chrome and Brave related to a recent change in Chromium. Unfortunately, tab detection for Microsoft Edge cannot be restored.</li>
-            <li>Added tab detection for Dia browser.</li>
+            <li>Restored tab support for Safari 26.</li>
+            <li>Restored tab support for Chrome and Brave related to a recent change in Chromium. Unfortunately, tab support for Microsoft Edge cannot be restored.</li>
+            <li>Added tab support for Dia browser.</li>
             <li>Fixed a bug where gestures would not work on a Catalyst app’s dock icon.</li>
             <li>Fixed a bug where some windows could not be moved between spaces.</li>
             <li>Fixed a bug where windows from applications with an additional "Script" menu could not be tiled natively.</li>
@@ -55,11 +63,11 @@
             </ul>
             ]]></description>
 
-            <pubDate>Mon, 20 Oct 2025 00:59:16 +0200</pubDate>
+            <pubDate>Tue, 16 Dec 2025 20:04:50 +0100</pubDate>
             <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/chrenn/swish-dl/releases/download/1.13.1/Swish.sparkle.dmg" sparkle:version="78" sparkle:shortVersionString="1.13.1" length="11003861" type="application/octet-stream" sparkle:edSignature="uvRHdGR4B0s5Q8u5MTn40413Lkiezo4YWOFw4mXTR7NYJva7a6euEn/nXlUZT44JKCCICq6VFSW1GL9d7Q9xBg=="/>
+            <enclosure url="https://github.com/chrenn/swish-dl/releases/download/1.13.2/Swish.sparkle.dmg" sparkle:version="79" sparkle:shortVersionString="1.13.2" length="10562211" type="application/octet-stream" sparkle:edSignature="Vc2CgD6vBvlkJCamAI3X+1sHbVZ9Cdx6RbbGqB/0dpS3lGw0GKyhKhxdkB7xMXjR0uUKDg8uce1q1oZUpD9BCw=="/>
             <sparkle:deltas>
-                <enclosure url="https://github.com/chrenn/swish-dl/releases/download/1.13.1/Swish.sparkle.delta" sparkle:version="78" sparkle:shortVersionString="1.13.1" sparkle:deltaFrom="75" length="459153" type="application/octet-stream" sparkle:edSignature="gnOe0kl7g7EY9BXHYSpAg67l/SU+WP2AaTaLEMBw172bkNWAs0szka242oppm9Em0OUt4efPQhKa2Bxe/ihJDw=="/>
+                <enclosure url="https://github.com/chrenn/swish-dl/releases/download/1.13.2/Swish.sparkle.delta" sparkle:version="79" sparkle:shortVersionString="1.13.2" sparkle:deltaFrom="78" length="2316247" type="application/octet-stream" sparkle:edSignature="To3vy6OH20j+QhOQUs4AReWUqDqWkj2iYDszKpqfqsoKWOBqehF8KsUv1O5mlApcEnzN3P1tKLC4fUllpagWAw=="/>
             </sparkle:deltas>
 
         </item>
